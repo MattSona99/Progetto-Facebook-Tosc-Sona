@@ -44,9 +44,11 @@ Il progetto in Java è stato suddiviso nel seguente modo:
 ![Facebook_Call - Call](https://user-images.githubusercontent.com/67501051/87822881-97649600-c872-11ea-8f8a-22b37b3ec796.png)
 ![Facebook_Call - User_Profile](https://user-images.githubusercontent.com/67501051/87822884-97fd2c80-c872-11ea-9a50-64190f87e712.png)
 
--Salva_File
+- Salva_File
 
+![Salva_File - Writer](https://user-images.githubusercontent.com/67501051/87822992-cd097f00-c872-11ea-9b6b-d717bb1b8302.png)
 
+- Statistiche
 
 
 

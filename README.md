@@ -52,7 +52,7 @@ AccessToken per il profilo di Matteo Sonaglioni : EAAjCznvVZCs4BAM4ZCbEsJd4uDK5N
 
 Nella classe Call, sotto commenti, avevamo iniziato ad impostare l'idea di accedere alle menzioni di un post, ma senza risultati.
 
-Inoltre, il progetto funzionerà anche se nella classe Reader il percorso mancherà, ma il bottone "Salva Post su File" non funzionerà.
+Inoltre, il progetto funzionerà anche se nella classe Reader il percorso su cui si deve salvare il file mancherà, ma il bottone "Salva Post su File" non funzionerà.
 
 # AUTORI
 

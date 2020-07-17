@@ -33,6 +33,8 @@ Il progetto in Java è stato suddiviso nel seguente modo:
 - Package LoginGUI : Presenta le classi con cui sono state create le due interfacce (Login e Menù) che permettono di usufruire di tutte le altre funzioni del progetto;
 - Package testFacebook : Presenta le classi con cui si possono effettuare test sulla Call e sulla media;
 
+# INTERFACCE DI LOGIN E MENU'
+
 
 
 

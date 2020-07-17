@@ -50,6 +50,12 @@ Il progetto in Java è stato suddiviso nel seguente modo:
 
 - Statistiche
 
+![Statistiche - Solo Maiuscoli](https://user-images.githubusercontent.com/67501051/87823037-e1e61280-c872-11ea-9a64-1b76e8bcf6d8.png)
+![Statistiche - Hashtag](https://user-images.githubusercontent.com/67501051/87823039-e1e61280-c872-11ea-82fd-54ec622efd4f.png)
+![Statistiche - Lunghezza](https://user-images.githubusercontent.com/67501051/87823040-e27ea900-c872-11ea-88b7-567c09139962.png)
+
+- LoginGUI
+
 
 
 

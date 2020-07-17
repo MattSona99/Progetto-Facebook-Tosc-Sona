@@ -20,33 +20,11 @@ Il tutto è stato implementato con Window Builder, permettendo di creare:
 - una schermata contenente un Menù con tutte le possibili funzioni;
 
 Il progetto in Java è stato suddiviso nel seguente modo:
-
-Package Facebook_Call:  -> Class Call : 
-                              - Leggi_Post : consente di accedere ai post di un utente e salvarli su un Vector dinamico di tipo String, restituisce un oggetto di tipo                                           User_Profile; 
-                        -> Class User_Profile : 
-                              - getUser_name : restituisce una String; 
-                              - setUser_name : fa in modo di modificare la String passatagli come parametro;
-Package Salva_File:     -> Class Writer:
-                              - Scrivi_File : consente di scrivere su file il Vector di String passatogli come parametro; è qui che l'utente deve inserire il percorso del file                                   in cui vuole che venga salvata la lista dei post;
-Package Statistiche:    -> Class Hashtags:
-                              - controllo: restituisce true se nella String passatagli c'è un carattere del tipo "#";
-                              - hashtag: controlla, attraverso la funzione "controllo", se nella lista dei post sono presenti hashtags;
-                        -> Class SoloMaiuscoli:
-                              - Controllo: restituisce true se nella String passatagli ci sono esclusivamente caratteri maiuscoli, con eccezione degli spazi;
-                              - Maiuscolo: controlla, attraverso la funzione "Controllo", se nella lista dei post sono presenti post esclusivamente in maiuscolo; 
-                              - getM : restituisce il vettore dei post con hashtags;
-                        -> Class Lunghezza:
-                              - lunghezza: salva su un vettore di int tutte le lunghezze del vettore di String passatogli come parametro;
-                              - media: restituisce il valore (int) della media di tutte le lunghezze dei post;
-                              - minimo: restituisce il valore (int) del post con lunghezza minore;
-                              - massimo: restituisce il valore (int) del posto con lunghezza maggiore;
-Package LoginGUI:       -> Class LoginScreen:
-                              - main : inizializza e rende visibile la schermata di Login;
-                              - LoginScreen : inizializza tutte le caratteristiche della schermata di Login (ed inizializza la schermata di Menù se l'AccessToken è valido);
-                        -> Class Menù:
-                              - initialize: inizializza tutte le caratteristiche della schermata di Menù (è qui che vengono chiamati i diversi metodi degli altri package);
-Package testFacebook:   -> Class testCall: consente di effettuare test sulla Call all'API di Facebook, controllando se l'username sia giusto; 
-                        -> Class testMedia: consente di effettuare test sulla media della lunghezza dei post, controllando quest'ultima;
+- Package Facebook_Call : Presenta le classi con cui ci colleghiamo all'API e restituisce i metadati;
+- Package Salva_File : Presenta la classe per salvare tutti i post in un file (il percorso di destinazione deve essere modificato all'interno del codice);
+- Package Statistiche: Presente le classi per ottenere statistiche su media della lunghezza dei post, post più lungo/corto, post con hashtags e post solo in maiuscolo;
+- Package LoginGUI : Presenta le classi con cui sono state create le due interfacce (Login e Menù) che permettono di usufruire di tutte le altre funzioni del progetto;
+- Package testFacebook : Presenta le classi con cui si possono effettuare test sulla Call e sulla media;
 
 
 

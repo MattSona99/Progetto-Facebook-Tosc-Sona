@@ -44,6 +44,11 @@ AccessToken per il profilo di Lorenzo Toscanelli : EAAKdS6UMQ6QBAMb3oNDOmZA1n7e2
 
 AccessToken per il profilo di Matteo Sonaglioni : EAAjCznvVZCs4BAM4ZCbEsJd4uDK5NPFZB7uSkAvNY1gbLJZC2RPpVurryf8o0q9z0T6CKKwEM7ts9ygO1hd40DZB4ft0dZAxsutBKQXhkxyYowHdtRWxFrvF0D0hAF1pzQKnI5dA0pNgmNQbHKbmZCNTZBviOPMU2yk4KJ6tzgDNPwZDZD
 
+
 # NOTE:
 
 Nella classe Call, sotto commenti, si era iniziato ad impostare l'idea di accedere alle menzioni di un post, ma senza risultati.
+
+# AUTORI
+
+Matteo Sonaglioni, Lorenzo Toscanelli

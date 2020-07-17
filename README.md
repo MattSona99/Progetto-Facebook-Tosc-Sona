@@ -47,7 +47,7 @@ AccessToken per il profilo di Matteo Sonaglioni : EAAjCznvVZCs4BAM4ZCbEsJd4uDK5N
 
 # NOTE:
 
-Nella classe Call, sotto commenti, si era iniziato ad impostare l'idea di accedere alle menzioni di un post, ma senza risultati.
+Nella classe Call, sotto commenti, avevamo iniziato ad impostare l'idea di accedere alle menzioni di un post, ma senza risultati.
 
 # AUTORI
 

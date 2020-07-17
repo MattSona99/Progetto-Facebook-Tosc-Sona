@@ -57,7 +57,8 @@ Il progetto in Java è stato suddiviso nel seguente modo:
 - LoginGUI
 
 
-
+![LoginGUI - Login_Screen](https://user-images.githubusercontent.com/67501051/87823088-f6c2a600-c872-11ea-9380-52c56984adc1.png)
+![LoginGUI - Menù](https://user-images.githubusercontent.com/67501051/87823089-f6c2a600-c872-11ea-8ce1-999ed5a0f84d.png)
 
 
 # DATI DI ACCESSO:

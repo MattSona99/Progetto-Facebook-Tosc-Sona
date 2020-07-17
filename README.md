@@ -15,6 +15,7 @@ La nostra applicazione permette all'utente di analizzare i seguenti dati mediant
 - Statistiche su post scritti esclusivamente con caratteri maiuscoli;
 - Statistiche su hashtags presenti nei post;
 - Salvare la lista dei Post in un nuovo File in un percorso a scelta dell'utente (bisogna modificarlo nel codice);
+
 Il tutto è stato implementato con Window Builder, permettendo di creare:
 - una schermata di Login utente attraverso la verifica del proprio AccessToken;
 - una schermata contenente un Menù con tutte le possibili funzioni;

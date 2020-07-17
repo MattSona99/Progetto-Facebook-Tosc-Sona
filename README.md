@@ -1,6 +1,4 @@
-# PROGETTO FACEBOOK
-SCOPO:
-
+# SCOPO
 
 Lo scopo del progetto è quello di effettuare statistiche dei post Facebook di un utente mediante l'analisi di questi ultimi.
 
@@ -11,7 +9,7 @@ E' stata creata un'applicazione che consente di generare il codice dei post di u
 Mediante l'uso del Software Eclipse si è poi sviluppato il codice in Java per effettuare una chiamata all'API di Facebook e poter effettuare le varie statistiche.
 Per fare ciò, abbiamo importato dentro al progetto una nuova Referenced Library che permette di connettersi con la nostra applicazione (restfb.jar).
 
-FUNZIONI DELL'APPLICAZIONE:
+# FUNZIONI DELL'APPLICAZIONE:
 
 
 La nostra applicazione permette all'utente di analizzare i seguenti dati mediante API GET:
@@ -25,7 +23,7 @@ Il tutto è stato implementato con Window Builder, permettendo di creare:
 - una schermata di Login utente attraverso la verifica del proprio AccessToken;
 - una schermata contenente un Menù con tutte le possibili funzioni;
 
-PROGETTO JAVA:
+# PROGETTO JAVA:
 
 
 Il progetto in Java è stato suddiviso nel seguente modo:
@@ -40,12 +38,12 @@ Il progetto in Java è stato suddiviso nel seguente modo:
 
 
 
-DATI:
+# DATI:
 
 AccessToken per il profilo di Lorenzo Toscanelli : EAAKdS6UMQ6QBAMb3oNDOmZA1n7e2ZAoAGkJcbmDfuKtKnIDX4C4gZBIsSmhaCbYOUUuG3PPSLovKG36tPeyAyiNyHuedicxd8DDlfKwUVZCny8crH27QYQ94tZAn0kZB4OarWnwim7QcZA9v9AXWX17gFqduUlmZCMIFgAfIsuZCZBcwZDZD
 
 AccessToken per il profilo di Matteo Sonaglioni : EAAjCznvVZCs4BAM4ZCbEsJd4uDK5NPFZB7uSkAvNY1gbLJZC2RPpVurryf8o0q9z0T6CKKwEM7ts9ygO1hd40DZB4ft0dZAxsutBKQXhkxyYowHdtRWxFrvF0D0hAF1pzQKnI5dA0pNgmNQbHKbmZCNTZBviOPMU2yk4KJ6tzgDNPwZDZD
 
-NOTE:
+# NOTE:
 
 Nella classe Call, sotto commenti, si era iniziato ad impostare l'idea di accedere alle menzioni di un post, ma senza risultati.
